@@ -27,7 +27,7 @@ This project is part of Tel Aviv University Deep Learning course 0510-7255.
   
   In case the original link is broken, the dataset was downloaded and uploaded to google drive [link](https://downloads.greyc.fr/vedai/)
     
-  Extarct the .rar files to "Datasets\VEDAI\Vehicules512"
+  Extarct the .rar files to directory "Datasets\VEDAI\Vehicules512"
   
   Copy the following excel files to "VEDAI" directory
     
