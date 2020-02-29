@@ -39,6 +39,8 @@ This project is part of Tel Aviv University Deep Learning course 0510-7255.
 
 ## Code
   Download the "Code/main.py" and the trained model "Code/hybridModel_Epoch40_vedai.h5"
+  
   Train, evaluation or vizualization can be choose in the main function configuration.
+  
   Make sure to set the base path correctly.
     
