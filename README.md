@@ -24,8 +24,10 @@ This is project is part of Tel Aviv University Deep Learning course.
   4. Trained models (.h5 file)
 
 # VEDAI Dataset
-  download the original dataset from the link (only the 512x512 images - two parts) - 
-  https://downloads.greyc.fr/vedai/
+  download the original dataset from the link (only the 512x512 images - two parts).
+  original [link](https://downloads.greyc.fr/vedai/)
+  Downloaded by us and upload to google drive [link](https://downloads.greyc.fr/vedai/)
+  
   
   Extarct the rar files in "Datasets\VEDAI\Vehicules512"
   Copy the following excel files to "VEDAI" directory
