@@ -1,5 +1,6 @@
 # Multimodal matching using a Hybrid Convolutional Neural Network
-        # Final Project by 304977861 & 317179000
+        
+#                             Final Project by 304977861 & 317179000
 
 # Description
 This is our implemetation for the paper "Multimodal matching using a Hybrid Convolutional Neural Network" by Elad Ben Baruch and Prof. Yosi Keller.
