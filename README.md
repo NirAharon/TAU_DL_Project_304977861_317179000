@@ -30,7 +30,7 @@ This project is part of Tel Aviv University Deep Learning course 0510-7255.
     
   Extarct the .rar files to directory "Datasets\VEDAI\Vehicules512".
   
-  Copy the following excel files to "VEDAI" directory
+  Copy the following excel files to "Datasets\VEDAI" directory
     
     • vedaiTrain.csv
     
