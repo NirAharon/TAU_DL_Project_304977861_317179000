@@ -2,12 +2,12 @@
 ## Multimodal matching using a Hybrid Convolutional Neural Network
 
 ## Description
-This is our implemetation for the paper "Multimodal matching using a Hybrid Convolutional Neural Network" by Elad Ben Baruch and Prof. Yosi Keller.
-This is project is part of Tel Aviv University Deep Learning course.
+Our implemetation of the paper "Multimodal matching using a Hybrid Convolutional Neural Network" by Elad Ben Baruch and Prof. Yosi Keller.
+This project is part of Tel Aviv University Deep Learning course 0510-7255.
 
 ## Prerequisite
   1. Python 3.6
-  2. Install interperter dependencies from the requirements.txt. Mainly:
+  2. Install interperter dependencies from the "Code\requirements.txt". Mainly:
   
     • Tensorflow 2.0
      
@@ -23,13 +23,10 @@ This is project is part of Tel Aviv University Deep Learning course.
   4. Trained models (.h5 file)
 
 ## VEDAI Dataset
-  download the original dataset from the link (only the 512x512 images - two parts).
-  
-  Original [link](https://downloads.greyc.fr/vedai/).
+  Download the original dataset from the [link](https://downloads.greyc.fr/vedai/) (only the 512x512 images - two parts).
   
   Downloaded by us and upload to google drive [link](https://downloads.greyc.fr/vedai/) - in case the original link is broken.
-  
-  
+    
   Extarct the rar files in "Datasets\VEDAI\Vehicules512"
   
   Copy the following excel files to "VEDAI" directory
