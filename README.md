@@ -21,7 +21,7 @@ This is project is part of Tel Aviv University Deep Learning course.
     • matplotlib 3.1.1
      
   3. VEDAI dataset   
-  4. Trained models (h5 files)
+  4. Trained models (.h5 file)
 
 # VEDAI Dataset
   download the original dataset from the link (only the 512x512 images - two parts) - 
