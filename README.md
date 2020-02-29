@@ -3,6 +3,7 @@
 
 ## Description
 Our implemetation of the paper "Multimodal matching using a Hybrid Convolutional Neural Network" by Elad Ben Baruch and Prof. Yosi Keller.
+
 This project is part of Tel Aviv University Deep Learning course 0510-7255.
 
 ## Prerequisite
