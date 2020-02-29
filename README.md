@@ -1,5 +1,5 @@
 # Multimodal matching using a Hybrid Convolutional Neural Network
-#         Final Project by 304977861 & 317179000
+# \t\tFinal Project by 304977861 & 317179000
 
 # Description
 This is our implemetation for the paper "Multimodal matching using a Hybrid Convolutional Neural Network" by Elad Ben Baruch and Prof. Yosi Keller.
@@ -13,11 +13,17 @@ This is project is part of Tel Aviv University Deep Learning course.
   4. Trained models (h5 files)
 
 # VEDAI Dataset
-  download the original dataset from the link: https://downloads.greyc.fr/vedai/
-  Extarct the rar files in "VEDAI\Vehicules512"
+  download the original dataset from the link (only the 512x512 images - two parts) - 
+  https://downloads.greyc.fr/vedai/
+  
+  Extarct the rar files in "Datasets\VEDAI\Vehicules512"
   Copy the following excel files to "VEDAI" directory
     • vedaiTrain.csv
     • vedaiTest.csv
     • vedaiTestDetections.csv
 
 # Code
+  Download the "Code/main.py" and the trained model "Code/hybridModel_Epoch40_vedai.h5"
+  Train, evaluation or vizualization can be choose in the main function configuration.
+  Make sure to set the base path correctly.
+    
