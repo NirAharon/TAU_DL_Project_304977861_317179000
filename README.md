@@ -42,5 +42,5 @@ This project is part of Tel Aviv University Deep Learning course 0510-7255.
   
   Train, evaluation or vizualization can be chosen in the main function configuration.
   
-  Make sure to set the base path correctly.
+  Make sure to set the "basePath" in main.py correctly.
     
