@@ -1,12 +1,12 @@
 # Final Project by 304977861 & 317179000
 ## Multimodal matching using a Hybrid Convolutional Neural Network
 
-## Description
+### Description
 Our implemetation of the paper "Multimodal matching using a Hybrid Convolutional Neural Network" by Elad Ben Baruch and Prof. Yosi Keller.
 
 This project is part of Tel Aviv University Deep Learning course 0510-7255.
 
-## Prerequisite
+### Prerequisite
   1. Python 3.6
   2. Install interperter dependencies from the "Code\requirements.txt". Mainly:
   
@@ -23,7 +23,7 @@ This project is part of Tel Aviv University Deep Learning course 0510-7255.
   3. VEDAI dataset   
   4. Trained models (.h5 file)
 
-## VEDAI Dataset
+### VEDAI Dataset
   Download the original dataset from the [link](https://downloads.greyc.fr/vedai/) (only the 512x512 images - two parts).
   
   In case the original link is broken, the dataset was downloaded and uploaded to google drive [link](https://downloads.greyc.fr/vedai/)
@@ -38,7 +38,7 @@ This project is part of Tel Aviv University Deep Learning course 0510-7255.
     
     • vedaiTestDetections.csv
 
-## Code
+### Code
   Download the "Code/main.py" and the trained model "Code/hybridModel_Epoch40_vedai.h5"
   
   Train, evaluation or vizualization can be chosen in the main function configuration.
