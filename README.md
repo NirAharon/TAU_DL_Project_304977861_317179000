@@ -25,7 +25,7 @@ This project is part of Tel Aviv University Deep Learning course 0510-7255.
 ## VEDAI Dataset
   Download the original dataset from the [link](https://downloads.greyc.fr/vedai/) (only the 512x512 images - two parts).
   
-  Downloaded by us and upload to google drive [link](https://downloads.greyc.fr/vedai/) - in case the original link is broken.
+  In case the original link is broken, the dataset was downloaded and uploaded to google drive [link](https://downloads.greyc.fr/vedai/)
     
   Extarct the rar files in "Datasets\VEDAI\Vehicules512"
   
