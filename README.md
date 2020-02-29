@@ -8,8 +8,18 @@ This is project is part of Tel Aviv University Deep Learning course.
 
 # Prerequisite
   1. Python 3.6
-  2. Install interperter dependencies from the requirements.txt
-     Mainly: Tensorflow 2.0, numpy 1.18.1, opencv 3.4.2, pandas 0.25.3, matplotlib 3.1.1
+  2. Install interperter dependencies from the requirements.txt. Mainly: 
+  
+     • Tensorflow 2.0
+     
+     • numpy 1.18.1
+     
+     • opencv 3.4.2
+     
+     • pandas 0.25.3
+     
+     • matplotlib 3.1.1
+     
   3. VEDAI dataset   
   4. Trained models (h5 files)
 
